@@ -1,1 +1,1 @@
-HELLO WORLD from Ukraine
+HELLO WORLD
